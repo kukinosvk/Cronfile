@@ -1,0 +1,5 @@
+  cron {
+    minute  => '0',
+    hour    => '7',
+    weekday => 'SUN',
+  }

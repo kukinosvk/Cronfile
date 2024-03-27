@@ -1,4 +1,4 @@
-  cron { 'Mirror PROD to PLM TEST':
+  cron {
     minute  => '0',
     hour    => '7',
     weekday => 'TUE',
